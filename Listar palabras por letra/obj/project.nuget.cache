@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "+QB0pHAApC3sF4jGtoWJN4jhw4QfHncZARTwtajfZtg7rxE74v9sx9ux6G0usrJI+x3dY+7w5tackDYhBWQgEg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP Elitebook\\OneDrive - Universidad Tecnológica Metropolitana\\Documentos\\Respaldo\\Parcial2\\Listar palabras por letra\\Listar palabras por letra.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP Elitebook\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.31\\microsoft.netcore.app.ref.6.0.31.nupkg.sha512",
+    "C:\\Users\\HP Elitebook\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.31\\microsoft.windowsdesktop.app.ref.6.0.31.nupkg.sha512",
+    "C:\\Users\\HP Elitebook\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.31\\microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "C:\\Users\\HP Elitebook\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.31\\microsoft.netcore.app.host.win-x64.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}
